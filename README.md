@@ -1,5 +1,5 @@
-# projeto web - felix
-site de desenvolvimento de DW-I Fatec Luigi Papaiz de Diadema - v1, 2025.
+# Projeto web - felix
+Site de desenvolvimento de DW-I Fatec Luigi Papaiz de Diadema - v1, 2025.
 prof. Dr Bruno Zolotareff dos Santos
 
 Author: Eduardo Alves
@@ -11,7 +11,7 @@ Esse é um projeto web que engloba aprendizados sobre HTML5,CSS3,bootstrap e Jav
 ## Aulas
 link:
 
-## link projeto
+## Link projeto
 
 https://eduardo-fsa18.github.io/Felix/
 
