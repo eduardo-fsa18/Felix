@@ -8,7 +8,7 @@ link:
 ## Sobre
 Esse é um projeto web que engloba aprendizados sobre HTML5,CSS3,bootstrap e JavaScript. O tema escolhido é sobre o gato felix por ser um desenho interessante e com valores de aprendizado de uma época diferente que da atualidade, trazendo um pouco de lembrança ou informação da arte do passado 
 
-## Aulas
+## Aulas iniciais
 link:
 
 ## Link projeto
