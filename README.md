@@ -1,4 +1,4 @@
-# projrto web - felix
+# projeto web - felix
 site de desenvolvimento de DW-I Fatec Luigi Papaiz de Diadema - v1, 2025.
 prof. Dr Bruno Zolotareff dos Santos
 
